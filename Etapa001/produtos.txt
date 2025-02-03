@@ -1,0 +1,4 @@
+Pizza Margherita;25.0;10
+Pizza Pepperoni;30.0;5
+Pizza Vegetariana;28.0;8
+Pizza 4 Queijos;29.0;8
